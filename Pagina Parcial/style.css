@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://img.freepik.com/fotos-premium/tienda-estante-ropa-ella_924501-191.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div.enlaces{
+    margin: 70px 400px;
+    padding: 20px 20px 30px 20px;
+    background: rgba(5, 7, 12, 0.40);
+}
+h3{
+    font-size: 25px;
+    color: rgb(251, 251, 247);
+    text-shadow: 1px 2px rgb(251, 241, 241), 0 0 25px rgb(242, 239, 245), 0 0 5px rgb(242, 237, 237);
+    text-align: center;
+}
+h1{
+    font-size: 45px;
+    color: rgb(241, 205, 23);
+    text-shadow: 1px 2px black, 0 0 25px rgb(248, 244, 244), 0 0 5px rgb(255, 250, 249);
+    text-align: center;
+}
+h2{
+    font-size: 25px;
+    color: white;
+    text-shadow: 1px 2px black, 0 0 25px rgb(10, 9, 9), 0 0 5px rgb(13, 11, 10);
+    text-align: center;
+}
+
